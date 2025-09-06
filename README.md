@@ -51,15 +51,15 @@ STEP 6: Use zscore of to remove outliers
 
 <img width="756" height="604" alt="image" src="https://github.com/user-attachments/assets/fbe71434-7159-43d0-bd76-9b960cd60451" />
 
-<img width="741" height="653" alt="image" src="https://github.com/user-attachments/assets/58461536-4fea-4525-bf59-290e95a9ed60" />
 
+<img width="741" height="653" alt="image" src="https://github.com/user-attachments/assets/58461536-4fea-4525-bf59-290e95a9ed60" />
 
 
 <img width="474" height="783" alt="image" src="https://github.com/user-attachments/assets/abcb5a1a-59f9-4510-b247-cce1b9783522" />
 
 
-
 <img width="487" height="564" alt="image" src="https://github.com/user-attachments/assets/ddab7b5e-e67d-43d8-a7f4-7798c8a823d8" />
+
 
 <img width="799" height="748" alt="image" src="https://github.com/user-attachments/assets/c9517b10-7dd9-48b5-b33c-e545f0bce9ed" />
 
